@@ -290,6 +290,7 @@
 		z-index: 10;
 		max-width: 230px;
 		min-width: 0px;
+		max-height: 40vh;
 		flex: 1;
 		border: 0;
 		height: auto;
